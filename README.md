@@ -2,6 +2,6 @@
 
 Target roles (Integration / Cloud / API Architect)
 
-current core skills (AWS, APIs, React, AI)
+Current core skills (AWS, APIs, React, AI)
 
 Projects:
